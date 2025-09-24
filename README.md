@@ -1,6 +1,7 @@
 # Meus Códigos🚀
 
-Bem-vinda(o) ao meu repositório de códigos! Aqui estou salvando meus projetos e experimentos enquanto aprendo programação.
+Bem-vinda(o) ao meu repositório de códigos!💖
+Guardando meus projetos e testando enquanto aprendo. 💻
 
 ## Linguagens que estou aprendendo
 - Java☕
