@@ -5,7 +5,8 @@ Guardando meus projetos e testando enquanto aprendo. 💻
 
 ## Linguagens que estou aprendendo
 - Java☕
-- JavaScript (iniciante)📜
+- JavaScript📜
+  
 
 ## Sobre os códigos
 - Podem estar incompletos🧩
